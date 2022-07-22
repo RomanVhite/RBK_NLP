@@ -1,8 +1,7 @@
 # RBK_NLP
 
 # Лицензии
-- Apache License Version 2.0, January 2004 
-http://www.apache.org/licenses/
+- Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
 - MIT License https://opensource.org/licenses/mit-license.php
 - catboost Apache License 2.0 https://github.com/catboost/catboost/blob/master/LICENSE
 - nltk Apache License 2.0 https://github.com/nltk/nltk/blob/develop/LICENSE.txt
@@ -15,6 +14,8 @@ http://www.apache.org/licenses/
 - spacy MIT License https://github.com/explosion/spaCy/blob/master/LICENSE
 - optuna MIT License https://github.com/optuna/optuna/blob/master/LICENSE
 - tqdm MIT License https://github.com/tqdm/tqdm/blob/master/LICENCE
+- requests Apache Software License (Apache 2.0) https://github.com/psf/requests/blob/main/LICENSE
+- regex Apache Software License https://github.com/mrabarnett/mrab-regex/blob/hg/LICENSE.txt
 
 # Сссылки на датасеты
 [Train dataset - cleaned_train.csv](https://drive.google.com/file/d/1jtML1v1VpLoethL2DdmnmP-wvkdZr5R8/view?usp=sharing)

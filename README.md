@@ -16,4 +16,6 @@ http://www.apache.org/licenses/
 - optuna MIT License https://github.com/optuna/optuna/blob/master/LICENSE
 - tqdm MIT License https://github.com/tqdm/tqdm/blob/master/LICENCE
 
-
+# Сссылки на датасеты
+[Train dataset - cleaned_train.csv](https://drive.google.com/file/d/1jtML1v1VpLoethL2DdmnmP-wvkdZr5R8/view?usp=sharing)
+[Test dataset - cleaned_test.csv](https://drive.google.com/file/d/1PcwtlINsUt4IW7M3zFbNjLLvcDJ8daYC/view?usp=sharing)

@@ -1,5 +1,13 @@
 # RBK_NLP
-# Автор
+
+# Сссылки на датасеты, необходимые для проверки моделей
+[Train dataset - cleaned_train.csv](https://drive.google.com/file/d/1jtML1v1VpLoethL2DdmnmP-wvkdZr5R8/view?usp=sharing)
+
+[Test dataset - cleaned_test.csv](https://drive.google.com/file/d/1PcwtlINsUt4IW7M3zFbNjLLvcDJ8daYC/view?usp=sharing)
+#
+- parser.ipynb - нотбук для парсинга данных
+- full_features.ipynb - нотбук для обработки и добавления признаков
+- ML_part.ipynb - нотбук с моделями машинного обучения
 
 # Лицензии
 - Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
@@ -18,7 +26,3 @@
 - requests Apache Software License (Apache 2.0) https://github.com/psf/requests/blob/main/LICENSE
 - regex Apache Software License https://github.com/mrabarnett/mrab-regex/blob/hg/LICENSE.txt
 - itertools The MIT License https://github.com/narimiran/itertools/blob/master/LICENSE.txt
-# Сссылки на датасеты
-[Train dataset - cleaned_train.csv](https://drive.google.com/file/d/1jtML1v1VpLoethL2DdmnmP-wvkdZr5R8/view?usp=sharing)
-
-[Test dataset - cleaned_test.csv](https://drive.google.com/file/d/1PcwtlINsUt4IW7M3zFbNjLLvcDJ8daYC/view?usp=sharing)

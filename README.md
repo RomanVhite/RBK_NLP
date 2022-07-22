@@ -17,7 +17,7 @@
 - tqdm MIT License https://github.com/tqdm/tqdm/blob/master/LICENCE
 - requests Apache Software License (Apache 2.0) https://github.com/psf/requests/blob/main/LICENSE
 - regex Apache Software License https://github.com/mrabarnett/mrab-regex/blob/hg/LICENSE.txt
-
+- itertools The MIT License https://github.com/narimiran/itertools/blob/master/LICENSE.txt
 # Сссылки на датасеты
 [Train dataset - cleaned_train.csv](https://drive.google.com/file/d/1jtML1v1VpLoethL2DdmnmP-wvkdZr5R8/view?usp=sharing)
 
